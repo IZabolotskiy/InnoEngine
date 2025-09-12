@@ -5,25 +5,25 @@
 
 ## Features
 
-- [O] - invert y, to usual style
-- [O] -  textures render
-- [] - shadows
-- [] - player actor
-- [] - .cae animations
-- [] - ragdoll
-- [] - car
-- [] - terrain LODs
-- [] - terrain edit tool 
-- [] - connect SDL3
-- [] - engine UI (imgui like), but with editor
-- [] - game separated
-- [] - SDL3 ttf
-- - [] - SDL3 mixer
-  - - [] - SDL3 net
-  -[]  - vma - allocation
-- [] - build for arch
+- [ ] - invert y, to usual style
+- [ ] -  textures render
+- [ ] - shadows
+- [ ] - player actor
+- [ ] - .cae animations
+- [ ] - ragdoll
+- [ ] - car
+- [ ] - terrain LODs
+- [ ] - terrain edit tool 
+- [ ] - connect SDL3
+- [ ] - engine UI (imgui like), but with editor
+- [ ] - game separated
+- [ ] - SDL3 ttf
+- [ ] - SDL3 mixer
+- [ ] - SDL3 net
+  - [ ]  - vma - allocation
+- [ ] - build for arch
 
-- [] - (how connect lua in ubuntu? (not important)
+- [ ] - (how connect lua in ubuntu? (not important)
 
 - [x] PBR materials
 - [x] HDR lighting
