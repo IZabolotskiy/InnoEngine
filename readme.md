@@ -4,8 +4,9 @@
 
 
 ## Features
-- [] - invert y, to usual style
-- [] -  textures render
+
+- [O] - invert y, to usual style
+- [O] -  textures render
 - [] - shadows
 - [] - player actor
 - [] - .cae animations
