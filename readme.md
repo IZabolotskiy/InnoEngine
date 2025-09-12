@@ -25,6 +25,7 @@
 
 - [ ] - (how connect lua in ubuntu? (not important)
 
+from other:
 - [x] PBR materials
 - [x] HDR lighting
 - [x] GLTF mesh importer
