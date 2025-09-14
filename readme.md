@@ -4,9 +4,13 @@
 using:
 
 -Vulkan 
+
 -SDL3
+
 -BulletPhysics
+
 -C++20 (Rust planned for 2027)
+
 -ECS (Entity Component System)
 
  **
