@@ -24,7 +24,7 @@ Games(in dev):
 
 - [ ] - invert y, to usual style
 - [ ] -  textures render
-- [ ] - shadows
+
 - [ ] - player actor
 - [ ] - .cae animations
 - [ ] - ragdoll
@@ -39,6 +39,9 @@ Games(in dev):
 - [ ] - SDL3 net
   - [ ]  - vma - allocation
 - [ ] - build for arch
+- [ ] - shadows
+
+- [ ] - RTX
 
 - [ ] - (how connect lua in ubuntu? (not important)
 
