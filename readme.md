@@ -14,7 +14,7 @@
 - [ ] - car
 - [ ] - terrain LODs
 - [ ] - terrain edit tool 
-- [ ] - connect SDL3
+- [X] - connect SDL3
 - [ ] - engine UI (imgui like), but with editor
 - [ ] - game separated
 - [ ] - SDL3 ttf
