@@ -1,12 +1,13 @@
 # InnoEngine
 
 **A simple 3D game engine:
-using
-Vulkan 
-SDL3
-BulletPhysics
-C++20
-ECS (Entity Component System)
+using:
+
+-Vulkan 
+-SDL3
+-BulletPhysics
+-C++20 (Rust planned for 2027)
+-ECS (Entity Component System)
 
  **
 target: Windows 10-11, Ubuntu, Arch
