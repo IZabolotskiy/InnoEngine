@@ -3,15 +3,15 @@
 **A simple 3D game engine:
 using:
 
--Vulkan 
+- Vulkan 1.4
 
--SDL3
+- SDL3
 
--BulletPhysics
+- BulletPhysics
 
--C++20 (Rust planned for 2027)
+- C++20 (Rust planned for 2027)
 
--ECS (Entity Component System)
+- ECS (Entity Component System)
 
  **
 target: Windows 10-11, Ubuntu, Arch
