@@ -22,23 +22,23 @@ Games(in dev):
 
 ## Features
 
-- [ ] - invert y, to usual style
-- [ ] -  textures render
+- [ ] - invert y, to usual style (later)
+- [ ] -  textures render (indev)
 
-- [ ] - player actor
-- [ ] - .cae animations
-- [ ] - ragdoll
-- [ ] - car
+- [ ] - player actor (indev)
+- [ ] - .cae animations (indev)
+- [ ] - ragdoll (later)
+- [ ] - car (indev)
 - [ ] - terrain LODs
 - [ ] - terrain edit tool 
 - [X] - connect SDL3
-- [ ] - engine UI (imgui like), but with editor
+- [ ] - engine UI (imgui like), but with editor 
 - [ ] - game separated
-- [ ] - SDL3 ttf
-- [ ] - SDL3 mixer
+- [ ] - SDL3 ttf (later)
+- [X] - SDL3 music ( mixer later with stable v3)
 - [ ] - SDL3 net
-  - [ ]  - vma - allocation
-- [ ] - build for arch
+  - [ ]  - vma - allocation (indev)
+- [ ] - build for arch (indev)
 - [ ] - shadows
 
 - [ ] - RTX
