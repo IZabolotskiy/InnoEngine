@@ -34,7 +34,7 @@ Games(in dev):
 - [ ] - SDL3 net
 - [ ] - vma - allocation (indev)
 - [ ] - build for arch (indev)
-- [ ] - shadows
+
 
       not soon:
 - [ ] - invert y, to usual style (later)
@@ -46,7 +46,7 @@ Games(in dev):
 - [ ] - [ ] - terrain LODs
 - [ ] - terrain edit tool     
 - [ ] - (how connect lua in ubuntu? (not important)
-
+- [ ] - shadows
 
 from other:
 - [x] PBR materials
