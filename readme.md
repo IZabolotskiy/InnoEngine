@@ -31,9 +31,9 @@ Games(in dev):
 - [ ] - car (indev)
 - [X] - connect SDL3
 - [X] - SDL3 music ( mixer later with stable v3)
-- [ ] - SDL3 net
-- [ ] - vma - allocation (indev)
-- [ ] - build for arch (indev)
+- [ ] - SDL3 net 
+- [X] - vma - allocation 
+- [X] - build for arch
 
 
       not soon:
@@ -48,7 +48,7 @@ Games(in dev):
 - [ ] - (how connect lua in ubuntu? (not important)
 - [ ] - shadows
 
-from other:
+from other (maybe here, but not sure:
 - [x] PBR materials
 - [x] HDR lighting
 - [x] GLTF mesh importer
