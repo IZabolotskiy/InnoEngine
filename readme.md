@@ -37,7 +37,7 @@ Games(in dev):
 
 
       not soon:
-- [ ] - invert y, to usual style (later)
+- [X] - invert y, to usual style (later for camera movement?)
 - [ ]  - ragdoll (later)
 - [ ] - RTX
 - [ ] - game separated
